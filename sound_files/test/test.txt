@@ -1,0 +1,4 @@
+is there a triangle below no is there a green square below there is there a triangle above yes is there a green square above yes there is is there a triangle below no is there
+a square above yes there is is there a triangle above Iam not sure is there a square above Iam not sure is there a red triangle above no is there a red triangle above no is 
+there a square below yes there is is there a green square below no
+
